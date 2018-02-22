@@ -57,6 +57,7 @@
 
 [overview](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
 [search in graph](https://en.wikipedia.org/wiki/Graph_traversal)
+[article on graph @ medium](https://medium.com/@vardanator/i-dont-understand-graph-theory-1c96572a1401)
 
 * notation
 * types of graphs
